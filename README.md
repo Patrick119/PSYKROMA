@@ -60,6 +60,6 @@
 
 ### Installation
 ```bash
-git clone https://github.com/[tu-usuario]/PSYKROMA.git
+git clone https://github.com/[Patrick119]/PSYKROMA.git
 cd PSYKROMA
 # Open project in Unity Hub
